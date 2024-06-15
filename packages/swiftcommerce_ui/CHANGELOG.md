@@ -1,3 +1,7 @@
+## 2.1.0
+
+ - **FEAT**: add addTwo function.
+
 ## 2.0.1
 
  - **DOCS**: add more explanation to CHANGELOG.md.

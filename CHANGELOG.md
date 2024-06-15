@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`swiftcommerce_ui` - `v2.1.0`](#swiftcommerce_ui---v210)
+
+---
+
+#### `swiftcommerce_ui` - `v2.1.0`
+
+ - **FEAT**: add addTwo function.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`swiftcommerce_ui` - `v2.0.1`](#swiftcommerce_ui---v201)
 
 ---

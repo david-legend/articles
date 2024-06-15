@@ -1,0 +1,8 @@
+name: swift_commerce
+
+environment:
+  # Dart SDK version that flutter project is compatible with
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  melos: ^4.1.0

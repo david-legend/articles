@@ -1,0 +1,5 @@
+name: swiftcommerce
+
+packages:
+  - apps/**
+  - packages/**

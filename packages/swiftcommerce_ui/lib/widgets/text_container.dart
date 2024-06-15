@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class TextBox extends StatelessWidget {
-  const TextBox({
+class TextContainer extends StatelessWidget {
+  const TextContainer({
     super.key,
     required this.text,
   });

@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`swiftcommerce_ui` - `v2.0.1`](#swiftcommerce_ui---v201)
+
+---
+
+#### `swiftcommerce_ui` - `v2.0.1`
+
+ - **DOCS**: add more explanation to CHANGELOG.md.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`swiftcommerce_ui` - `v2.0.0`](#swiftcommerce_ui---v200)
 
 Packages with other changes:

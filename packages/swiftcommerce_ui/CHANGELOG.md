@@ -1,3 +1,7 @@
+## 1.0.1
+
+ - **FIX**: add style to text box.
+
 ## 1.0.0
 
 > Note: This release has breaking changes.

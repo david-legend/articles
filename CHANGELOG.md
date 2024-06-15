@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`swiftcommerce_ui` - `v1.0.1`](#swiftcommerce_ui---v101)
+
+---
+
+#### `swiftcommerce_ui` - `v1.0.1`
+
+ - **FIX**: add style to text box.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`swiftcommerce_ui` - `v1.0.0`](#swiftcommerce_ui---v100)
 
 Packages with other changes:

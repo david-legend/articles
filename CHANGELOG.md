@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`swiftcommerce_ui` - `v2.0.0`](#swiftcommerce_ui---v200)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `swiftcommerce_ui` - `v2.0.0`
+
+ - **BREAKING** **FEAT**: add style to text column.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - There are no breaking changes in this release.
 
 Packages with other changes:

@@ -1,3 +1,9 @@
+## 2.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: add style to text column.
+
 ## 1.1.0
 
  - **FEAT**: add style to text stack.

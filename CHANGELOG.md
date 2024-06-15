@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`swiftcommerce_ui` - `v0.1.0`](#swiftcommerce_ui---v010)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `swiftcommerce_ui` - `v0.1.0`
+
+ - **BREAKING** **FEAT**: add text row widget to handle text in rows.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - There are no breaking changes in this release.
 
 Packages with other changes:

@@ -1,3 +1,9 @@
+## 0.1.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: add text row widget to handle text in rows.
+
 ## 0.0.3
 
  - **FIX**: formatted text column.

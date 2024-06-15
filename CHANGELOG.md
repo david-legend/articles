@@ -15,6 +15,28 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`swiftcommerce_ui` - `v0.0.3`](#swiftcommerce_ui---v003)
+
+---
+
+#### `swiftcommerce_ui` - `v0.0.3`
+
+ - **FIX**: formatted text column.
+ - **FEAT**: Add text column widget to handle text syntax.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`swiftcommerce_ui` - `v0.0.2+1`](#swiftcommerce_ui---v0021)
 
 ---

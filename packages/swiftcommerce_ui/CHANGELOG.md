@@ -1,3 +1,7 @@
+## 1.1.0
+
+ - **FEAT**: add style to text stack.
+
 ## 1.0.1
 
  - **FIX**: add style to text box.

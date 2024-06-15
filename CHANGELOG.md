@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`swiftcommerce_ui` - `v1.0.0`](#swiftcommerce_ui---v100)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `swiftcommerce_ui` - `v1.0.0`
+
+ - **BREAKING** **FEAT**: add text stack widget to handle text in stack.
+
+
+## 2024-06-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`swiftcommerce_ui` - `v0.1.0`](#swiftcommerce_ui---v010)
 
 Packages with other changes:

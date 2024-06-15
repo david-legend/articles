@@ -1,3 +1,9 @@
+## 1.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: add text stack widget to handle text in stack.
+
 ## 0.1.0
 
 > Note: This release has breaking changes.

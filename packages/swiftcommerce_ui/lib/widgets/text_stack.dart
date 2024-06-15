@@ -14,7 +14,10 @@ class TextStack extends StatelessWidget {
   Widget build(BuildContext context) {
     return Stack(
       children: [
-        Text(text),
+        Text(
+          text,
+          style: style,
+        ),
       ],
     );
   }

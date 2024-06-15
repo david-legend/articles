@@ -28,6 +28,7 @@
 
  - **FIX**: formatted text column.
  - **FEAT**: Add text column widget to handle text syntax.
+ - Text column can be used for amazing stuff
 
 ## 0.0.2+1
 

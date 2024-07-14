@@ -176,6 +176,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  swiftcommerce_ui:
+    dependency: "direct main"
+    description:
+      path: "../../packages/swiftcommerce_ui"
+      relative: true
+    source: path
+    version: "2.1.0"
   term_glyph:
     dependency: transitive
     description:

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/apps/customer_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/apps/customer_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/apps/customer_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/apps/vendor_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/apps/vendor_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/apps/vendor_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/build" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/packages/swiftcommerce_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/packages/swiftcommerce_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/swiftcommerce/packages/swiftcommerce_ui/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
